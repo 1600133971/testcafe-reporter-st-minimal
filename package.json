@@ -1,0 +1,59 @@
+{
+  "_from": "testcafe-reporter-st-minimal-minimal",
+  "_id": "testcafe-reporter-st-minimal@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-fBa8wyjrBHIFzX0YwTgJjIY6vOY=",
+  "_location": "/testcafe-reporter-st-minimal",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "testcafe-reporter-st-minimal",
+    "name": "testcafe-reporter-st-minimal",
+    "escapedName": "testcafe-reporter-st-minimal",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/testcafe-reporter-st-minimal/download/testcafe-reporter-st-minimal-1.0.0.tgz",
+  "_shasum": "7c16bcc328eb047205cd7d18c138098c863abce6",
+  "_spec": "testcafe-reporter-st-minimal",
+  "_where": "C:\\Users\\Administrator",
+  "author": {
+    "name": "1600133971",
+    "url": "https://github.com/1600133971"
+  },
+  "bugs": {
+    "url": "https://github.com/1600133971/testcafe-reporter-st-minimal/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "st TestCafe reporter plugin.",
+  "devDependencies": {
+    "testcafe": "^0.19.2"
+  },
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/1600133971/testcafe-reporter-st-minimal#readme",
+  "keywords": [
+    "testcafe",
+    "reporter",
+    "plugin"
+  ],
+  "license": "MIT",
+  "main": "lib/index",
+  "name": "testcafe-reporter-st-minimal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1600133971/testcafe-reporter-st-minimal.git"
+  },
+  "scripts": {
+    "publish-please": "publish-please",
+    "test": "gulp test"
+  },
+  "version": "1.0.0"
+}
