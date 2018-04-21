@@ -902,3 +902,93 @@ test('My fourth test 100', async t => {
     // Use the assertion to check if the actual header text is equal to the expected one
     .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
 });
+
+test('My fourth test 101', async t => {
+  await t
+    .typeText('#developer-name', 'John Smith')
+    .click('#submit-button')
+
+    // Use the assertion to check if the actual header text is equal to the expected one
+    .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+});
+
+test('My fourth test 102', async t => {
+  await t
+    .typeText('#developer-name', 'John Smith')
+    .click('#submit-button')
+
+    // Use the assertion to check if the actual header text is equal to the expected one
+    .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+});
+
+test('My fourth test 103', async t => {
+  await t
+    .typeText('#developer-name', 'John Smith')
+    .click('#submit-button')
+
+    // Use the assertion to check if the actual header text is equal to the expected one
+    .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+});
+
+test('My fourth test 104', async t => {
+  await t
+    .typeText('#developer-name', 'John Smith')
+    .click('#submit-button')
+
+    // Use the assertion to check if the actual header text is equal to the expected one
+    .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+});
+
+test('My fourth test 105', async t => {
+  await t
+    .typeText('#developer-name', 'John Smith')
+    .click('#submit-button')
+
+    // Use the assertion to check if the actual header text is equal to the expected one
+    .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+});
+
+test('My fourth test 106', async t => {
+  await t
+    .typeText('#developer-name', 'John Smith')
+    .click('#submit-button')
+
+    // Use the assertion to check if the actual header text is equal to the expected one
+    .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+});
+
+test('My fourth test 107', async t => {
+  await t
+    .typeText('#developer-name', 'John Smith')
+    .click('#submit-button')
+
+    // Use the assertion to check if the actual header text is equal to the expected one
+    .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+});
+
+test('My fourth test 108', async t => {
+  await t
+    .typeText('#developer-name', 'John Smith')
+    .click('#submit-button')
+
+    // Use the assertion to check if the actual header text is equal to the expected one
+    .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+});
+
+test('My fourth test 109', async t => {
+  await t
+    .typeText('#developer-name', 'John Smith')
+    .click('#submit-button')
+
+    // Use the assertion to check if the actual header text is equal to the expected one
+    .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+});
+
+test('My fourth test 110', async t => {
+  await t
+    .typeText('#developer-name', 'John Smith')
+    .click('#submit-button')
+
+    // Use the assertion to check if the actual header text is equal to the expected one
+    .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+});
