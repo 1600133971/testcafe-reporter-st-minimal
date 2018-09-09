@@ -2,6 +2,16 @@
 
 This is the **st-minimal** reporter plugin for [TestCafe](http://devexpress.github.io/testcafe).
 
+## Install
+
+This reporter isn't shipped with TestCafe by default. In most cases, you need to install it separately.
+
+However, if you need to install this reporter, you can use the following command.
+
+```
+npm install testcafe-reporter-st-minimal
+```
+
 ## Usage
 
 When you run tests from the command line, specify the reporter name by using the `--reporter` option:
